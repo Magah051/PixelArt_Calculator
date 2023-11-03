@@ -2,6 +2,8 @@
 
 <p>Calculadora simlpes feita no formato Pixel Art.</p>
 
+`React + Typescript + Vite`
+
 ## Visão Geral do Projeto
 Este repositório abriga um projeto de calculadora que emula as funcionalidades das antigas calculadoras simples. O objetivo principal deste projeto é replicar as operações e resultados exibidos no visor de forma precisa e fiel. O sistema consiste em componentes interativos, representados por imagens cuidadosamente criadas, incluindo botões de operação e números que compõem o visor.
 

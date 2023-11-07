@@ -17,7 +17,7 @@ Para configurar e executar este projeto de calculadora desenvolvido com TypeScri
 ### Clonar o Repositório:
 Clone este repositório para o seu ambiente de desenvolvimento local usando o seguinte comando:
 
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone https://github.com/Magah051/PixelArt_Calculator.git`
 
 ### Acessar a Pasta do Projeto:
 Navegue para a pasta raiz do projeto:
